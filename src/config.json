@@ -1,0 +1,16 @@
+{
+    "api":"https://run.mocky.io/v3/2d06d2c1-5a77-4ecd-843a-53247bcb0b94",
+    "images":{
+        "shirt":"https://cdn.pixabay.com/photo/2016/03/16/21/43/t-shirt-1261820_960_720.png",
+        "pants":"https://cdn.pixabay.com/photo/2013/07/13/11/32/pants-158358_960_720.png",
+        "shoes":"https://cdn.pixabay.com/photo/2013/07/12/18/20/shoes-153310_960_720.png"
+    },
+    "sizes":{
+        "shirt":["S","M","L","XL","XXL"],
+        "pants":[30,31,32,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48],
+        "shoes":[36,37,38,39,40,41,42,43,44,45,46]
+    },
+    "color":["Black","White","Red","Pink","Green"],
+    "types":["shirt","pants","shoes"]
+    
+}
